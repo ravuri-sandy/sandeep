@@ -1,0 +1,20 @@
+# sandeep logiin html
+<HTML>
+<HEAD><TITLE>Login Page</TITLE></HEAD>
+<BODY>
+
+<CENTER>
+<FORM method="POST" action="r1.py">
+
+<paragraph> Enter your username: <input type="text" name="login">
+<paragraph> Enter your password: <input type=password name="password">
+<input type="submit" value="login"><INPUT TYPE="RESET" NAME="Reset" VALUE="Clear">
+
+
+</FORM>
+</CENTER>
+
+
+</form>
+</BODY>
+</HTML>
